@@ -36,5 +36,5 @@ python3 app.py
 ```
 
 ## Disclaimer
-This is only for educaitonal purposes. I am not repsonsible for you violating Discord's TOS using this Tool. 
+This is only for educaitonal purposes. I am not responsible for you violating Discord's TOS using this Tool. 
 
